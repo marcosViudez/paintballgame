@@ -1,0 +1,3634 @@
+fileFormatVersion: 2
+guid: ba414895912a5425da4fbf7fa1e47c5e
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature|Bone
+    100004: Armature|Bone.001
+    100006: Armature|Bone.002
+    100008: Armature|Bone.003
+    100010: Armature|Bone.004
+    100012: Armature|Bone.005
+    100014: Armature|Bone.006
+    100016: Armature|Bone.007
+    100018: Armature|Bone.008
+    100020: Armature|Bone.009
+    100022: Armature|Bone.010
+    100024: Armature|Bone.011
+    100026: Armature|Bone.012
+    100028: Armature|Bone.013
+    100030: Armature|Bone.014
+    100032: Armature|Bone.015
+    100034: Armature|Bone.016
+    100036: Camera
+    100038: casco
+    100040: cuerpo
+    100042: //RootNode
+    100044: Lamp
+    100046: mascara
+    100048: mascaraGas
+    100050: mascaraGas2
+    100052: ojoder
+    100054: ojoizq
+    100056: pistola
+    100058: Sphere
+    400000: Armature
+    400002: Armature|Bone
+    400004: Armature|Bone.001
+    400006: Armature|Bone.002
+    400008: Armature|Bone.003
+    400010: Armature|Bone.004
+    400012: Armature|Bone.005
+    400014: Armature|Bone.006
+    400016: Armature|Bone.007
+    400018: Armature|Bone.008
+    400020: Armature|Bone.009
+    400022: Armature|Bone.010
+    400024: Armature|Bone.011
+    400026: Armature|Bone.012
+    400028: Armature|Bone.013
+    400030: Armature|Bone.014
+    400032: Armature|Bone.015
+    400034: Armature|Bone.016
+    400036: Camera
+    400038: casco
+    400040: cuerpo
+    400042: //RootNode
+    400044: Lamp
+    400046: mascara
+    400048: mascaraGas
+    400050: mascaraGas2
+    400052: ojoder
+    400054: ojoizq
+    400056: pistola
+    400058: Sphere
+    2300000: casco
+    2300002: mascara
+    2300004: mascaraGas
+    2300006: mascaraGas2
+    2300008: ojoder
+    2300010: ojoizq
+    2300012: pistola
+    2300014: Sphere
+    3300000: casco
+    3300002: mascara
+    3300004: mascaraGas
+    3300006: mascaraGas2
+    3300008: ojoder
+    3300010: ojoizq
+    3300012: pistola
+    3300014: Sphere
+    4300000: cuerpo
+    4300002: Sphere
+    4300004: ojoizq
+    4300006: ojoder
+    4300008: casco
+    4300010: mascaraGas
+    4300012: mascaraGas2
+    4300014: pistola
+    4300016: mascara
+    7400000: caminarNormal
+    7400002: caminarAgachado
+    7400004: correrNormal
+    7400006: correrAgachado
+    7400008: agacharse
+    7400010: levantarseAgachado
+    7400012: arrodillarse
+    7400014: levantarseArrodillado
+    7400016: acostarse
+    7400018: levantarseAcostado
+    7400020: cargarDePie
+    7400022: cargarArrodillado
+    7400024: cargarAgachado
+    7400026: tocado01
+    7400028: reposo
+    7400030: standCogiendoCosas
+    7400032: standCargandoCosas
+    7400034: GestoAvanzarDePie
+    7400036: GestoAvanzarAgachado
+    7400038: GestoAvanzarArrodillado
+    7400040: tocado01Andar
+    7400042: tocado01Inicio
+    7400044: gestoParoPie
+    7400046: gestoParoPieVolver
+    7400048: gestoParoAgachado
+    7400050: gestoParoArrodillado
+    7400052: gestoParoAgachadoVolver
+    7400054: gestoParoArrodilladoVolver
+    7400056: gestoAvanzarPie
+    7400058: gestoAvanzarAgachado
+    7400060: gestoAvanzarArrodillado
+    7400062: ladearDerPie
+    7400064: ladearDerPieVolver
+    7400066: ladearDerArrodillado
+    7400068: ladearDerArrodilladoVolver
+    7400070: ladearIzqPie
+    7400072: ladearIzqPieVolver
+    7400074: ladearIzqArrodillado
+    7400076: ladearIzqArrodilladoVolver
+    7400078: victoria01
+    7400080: victoria01Andar
+    7400082: derrota01
+    7400084: derrota01Andar
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: cuerpo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: caminarNormal
+      takeName: Armature|ArmatureAction
+      firstFrame: 4
+      lastFrame: 25
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: caminarAgachado
+      takeName: Armature|ArmatureAction
+      firstFrame: 26
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: correrNormal
+      takeName: Armature|ArmatureAction
+      firstFrame: 945
+      lastFrame: 964
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: correrAgachado
+      takeName: Armature|ArmatureAction
+      firstFrame: 967
+      lastFrame: 985
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: agacharse
+      takeName: Armature|ArmatureAction
+      firstFrame: 61
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: levantarseAgachado
+      takeName: Armature|ArmatureAction
+      firstFrame: 71
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: arrodillarse
+      takeName: Armature|ArmatureAction
+      firstFrame: 81
+      lastFrame: 91
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: levantarseArrodillado
+      takeName: Armature|ArmatureAction
+      firstFrame: 91
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: acostarse
+      takeName: Armature|ArmatureAction
+      firstFrame: 861
+      lastFrame: 900
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: levantarseAcostado
+      takeName: Armature|ArmatureAction
+      firstFrame: 900
+      lastFrame: 940
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cargarDePie
+      takeName: Armature|ArmatureAction
+      firstFrame: 701
+      lastFrame: 750
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cargarArrodillado
+      takeName: Armature|ArmatureAction
+      firstFrame: 601
+      lastFrame: 650
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cargarAgachado
+      takeName: Armature|ArmatureAction
+      firstFrame: 650
+      lastFrame: 700
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: tocado01
+      takeName: Armature|ArmatureAction
+      firstFrame: 751
+      lastFrame: 820
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: reposo
+      takeName: Armature|ArmatureAction
+      firstFrame: 101
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: standCogiendoCosas
+      takeName: Armature|ArmatureAction
+      firstFrame: 1124
+      lastFrame: 1150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: standCargandoCosas
+      takeName: Armature|ArmatureAction
+      firstFrame: 1098
+      lastFrame: 1124
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: tocado01Andar
+      takeName: Armature|ArmatureAction
+      firstFrame: 820
+      lastFrame: 845
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: tocado01Inicio
+      takeName: Armature|ArmatureAction
+      firstFrame: 845
+      lastFrame: 860
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gestoParoPie
+      takeName: Armature|ArmatureAction
+      firstFrame: 161
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gestoParoPieVolver
+      takeName: Armature|ArmatureAction
+      firstFrame: 180
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gestoParoAgachado
+      takeName: Armature|ArmatureAction
+      firstFrame: 481
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gestoParoAgachadoVolver
+      takeName: Armature|ArmatureAction
+      firstFrame: 500
+      lastFrame: 520
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gestoParoArrodillado
+      takeName: Armature|ArmatureAction
+      firstFrame: 361
+      lastFrame: 380
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gestoParoArrodilladoVolver
+      takeName: Armature|ArmatureAction
+      firstFrame: 380
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gestoAvanzarPie
+      takeName: Armature|ArmatureAction
+      firstFrame: 201
+      lastFrame: 280
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gestoAvanzarAgachado
+      takeName: Armature|ArmatureAction
+      firstFrame: 401
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: gestoAvanzarArrodillado
+      takeName: Armature|ArmatureAction
+      firstFrame: 281
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ladearDerPie
+      takeName: Armature|ArmatureAction
+      firstFrame: 540
+      lastFrame: 550
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ladearDerPieVolver
+      takeName: Armature|ArmatureAction
+      firstFrame: 550
+      lastFrame: 560
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ladearDerArrodillado
+      takeName: Armature|ArmatureAction
+      firstFrame: 580
+      lastFrame: 590
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ladearDerArrodilladoVolver
+      takeName: Armature|ArmatureAction
+      firstFrame: 590
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ladearIzqPie
+      takeName: Armature|ArmatureAction
+      firstFrame: 521
+      lastFrame: 530
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ladearIzqPieVolver
+      takeName: Armature|ArmatureAction
+      firstFrame: 530
+      lastFrame: 540
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ladearIzqArrodillado
+      takeName: Armature|ArmatureAction
+      firstFrame: 561
+      lastFrame: 570
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ladearIzqArrodilladoVolver
+      takeName: Armature|ArmatureAction
+      firstFrame: 570
+      lastFrame: 580
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: victoria01
+      takeName: Armature|ArmatureAction
+      firstFrame: 990
+      lastFrame: 1022
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: victoria01Andar
+      takeName: Armature|ArmatureAction
+      firstFrame: 1022
+      lastFrame: 1046
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: derrota01
+      takeName: Armature|ArmatureAction
+      firstFrame: 1047
+      lastFrame: 1070
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: derrota01Andar
+      takeName: Armature|ArmatureAction
+      firstFrame: 1075
+      lastFrame: 1097
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Bone
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.002
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.009/Armature|Bone.010/Armature|Bone.011/Armature|Bone.012
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.001/Armature|Bone.013/Armature|Bone.014/Armature|Bone.015/Armature|Bone.016
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.003/Armature|Bone.004/Armature|Bone.007
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006
+        weight: 1
+      - path: Armature/Armature|Bone/Armature|Bone.005/Armature|Bone.006/Armature|Bone.008
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: casco
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: mascara
+        weight: 1
+      - path: mascaraGas
+        weight: 1
+      - path: mascaraGas2
+        weight: 1
+      - path: ojoder
+        weight: 1
+      - path: ojoizq
+        weight: 1
+      - path: pistola
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3846ce2e12f65459ba1255b2a528d879
+timeCreated: 1429913559
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - botonesInterface: {instanceID: 0}
+  - interfaceDerecha: {fileID: 2800000, guid: dd8ad6495b0ae467e8e2db2dddee91d2, type: 3}
+  - interfaceIzquierda: {fileID: 2800000, guid: eee30213b12544e05b5da55c7b79794d,
+      type: 3}
+  - haloDeSeleccion: {instanceID: 0}
+  - jugador: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

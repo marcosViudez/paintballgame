@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 65ed8a841f74f42e7bee9d410e9cb7d7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature|Bone
+    100004: Armature|Bone.001
+    100006: Armature|Bone.002
+    100008: Armature|Bone.003
+    100010: Armature|Bone.004
+    100012: Armature|Bone.005
+    100014: Armature|Bone.006
+    100016: Armature|Bone.007
+    100018: Armature|Bone.008
+    100020: Armature|Bone.009
+    100022: Armature|Bone.010
+    100024: Armature|Bone.011
+    100026: Armature|Bone.012
+    100028: Armature|Bone.013
+    100030: Armature|Bone.014
+    100032: Armature|Bone.015
+    100034: Armature|Bone.016
+    100036: Camera
+    100038: casco
+    100040: cuerpo
+    100042: Lamp
+    100044: mascara
+    100046: mascaraGas
+    100048: mascaraGas2
+    100050: //RootNode
+    100052: ojoder
+    100054: ojoizq
+    100056: pistola
+    100058: Sphere
+    400000: Armature
+    400002: Armature|Bone
+    400004: Armature|Bone.001
+    400006: Armature|Bone.002
+    400008: Armature|Bone.003
+    400010: Armature|Bone.004
+    400012: Armature|Bone.005
+    400014: Armature|Bone.006
+    400016: Armature|Bone.007
+    400018: Armature|Bone.008
+    400020: Armature|Bone.009
+    400022: Armature|Bone.010
+    400024: Armature|Bone.011
+    400026: Armature|Bone.012
+    400028: Armature|Bone.013
+    400030: Armature|Bone.014
+    400032: Armature|Bone.015
+    400034: Armature|Bone.016
+    400036: Camera
+    400038: casco
+    400040: cuerpo
+    400042: Lamp
+    400044: mascara
+    400046: mascaraGas
+    400048: mascaraGas2
+    400050: //RootNode
+    400052: ojoder
+    400054: ojoizq
+    400056: pistola
+    400058: Sphere
+    2300000: casco
+    2300002: mascara
+    2300004: mascaraGas
+    2300006: mascaraGas2
+    2300008: ojoder
+    2300010: ojoizq
+    2300012: pistola
+    2300014: Sphere
+    3300000: casco
+    3300002: mascara
+    3300004: mascaraGas
+    3300006: mascaraGas2
+    3300008: ojoder
+    3300010: ojoizq
+    3300012: pistola
+    3300014: Sphere
+    4300000: cuerpo
+    4300002: Sphere
+    4300004: ojoizq
+    4300006: ojoder
+    4300008: casco
+    4300010: mascaraGas
+    4300012: mascaraGas2
+    4300014: pistola
+    4300016: mascara
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: cuerpo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cfb1d5adf02ba4110b7d81f0c62e2ac8
+timeCreated: 1433017813
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - celdaVacia: {fileID: 2800000, guid: d3df7cf5fa4f9460b8e07cc992ef7649, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
